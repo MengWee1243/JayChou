@@ -1,0 +1,2 @@
+text = "jaychou"
+print(text)
